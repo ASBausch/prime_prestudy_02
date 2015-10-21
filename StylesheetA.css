@@ -1,0 +1,10 @@
+header {
+	text-align: center;
+	font-family: Verdana, Arial, Serif;
+	font-style: bold;
+	font-size: 24;
+}
+img {
+	display: block;
+	margin: auto;
+}
